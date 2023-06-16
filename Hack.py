@@ -1,1 +1,1 @@
-print("Contact @Brutal900l on telegrem for havk ")
+print("Contact @Brutal900l on telegrem for hack ")
